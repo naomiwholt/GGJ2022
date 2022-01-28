@@ -55,6 +55,11 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+<<<<<<< HEAD
 # Crashlytics generated file!! hehehehehe uwu
 crashlytics-build.properties
 
+=======
+# Crashlytics generated file
+crashlytics-build.properties
+>>>>>>> 140a76c6630918c6c3c340aa88258b3740076e64
